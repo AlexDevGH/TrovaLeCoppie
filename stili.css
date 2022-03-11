@@ -1,0 +1,68 @@
+.griglia {
+  width: 400px;
+  height: 300px;
+  display: flex;
+  flex-wrap: wrap;   
+  cursor: pointer; 
+}
+
+.contieniGriglia {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding-top: 70px;
+  padding-bottom: 30px;
+}
+
+.pulsante {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;  
+  padding-bottom: 50px;
+}
+
+
+
+#btnReset {
+  color: yellow;
+  border: 1px;
+  border-color: yellow;
+  border-radius: 3px;
+}
+
+#btnReset:hover {
+  color:  goldenrod;
+  cursor: pointer;
+}
+
+
+
+.contenitore {
+  background-color: black;
+  border-style: dotted;
+  border-color: bisque;
+  border-radius: 20px;
+  border-width: 20px; 
+  
+  margin: 20px;
+
+  color: yellow; 
+  text-align: center;
+  font-family: Rog Fonts, Playbill, Arial, Helvetica, sans-serif; 
+  font-stretch: expanded;
+  font-weight: 300;
+  font-size: 20px;
+  text-shadow: burlywood;
+}
+
+body {
+  background-color: black;
+}
+
+
+#messaggi {
+  color: coral;
+}
+
