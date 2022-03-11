@@ -1,4 +1,4 @@
-# Trova le coppia
+# Trova le coppie
 Gioco di memoria che utilizza JavaScript, HTML and CSS
 Scopri due carte alla volta fino a trovare tutte le coppie. 
 
