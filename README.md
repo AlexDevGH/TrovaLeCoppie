@@ -1,5 +1,5 @@
 # Trova le coppie
-Gioco di memoria che utilizza JavaScript, HTML and CSS
+Gioco di memoria che utilizza JavaScript, HTML and CSS.
 Scopri due carte alla volta fino a trovare tutte le coppie. 
 
 ## Regole del gioco
